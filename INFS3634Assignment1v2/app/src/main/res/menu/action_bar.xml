@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/clock12_hours"
+        android:icon="@drawable/clock12_hours"
+        android:title="clock12_hours"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/clock24_hours"
+        android:icon="@drawable/clock24_hours"
+        android:title="clock24_hours"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/flex"
+        android:title="settings"
+        app:showAsAction="always" />
+
+</menu>
